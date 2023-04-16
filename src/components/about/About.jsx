@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import SELF from '../../assets/portfolio.jpg'
+import SELF from '../../assets/self-side copy.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
