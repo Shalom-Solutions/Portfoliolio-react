@@ -9,6 +9,7 @@ import IMG6 from '../../assets/docplanner.png'
 import IMG7 from '../../assets/portfolio3.png'
 import IMG8 from '../../assets/calculator-app.png'
 import IMG9 from '../../assets/Movie-App-with-React copy.png'
+import IMG10 from '../../assets/Appland.png'
 
 
 const data = [
@@ -74,6 +75,13 @@ const data = [
     title: 'Movie-app',
     github: 'https://github.com/',
     demo: 'https://movie-app-with-react-7664vzptw-shalom-solutions.vercel.app'
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: 'AppLand-Landing Page',
+    github: 'https://github.com/',
+    demo: 'https://vercel.com/shalom-solutions/landing-page-with-react/5EgUvvpFHVp5V3fAkaT8HJ9D2axv'
   },
 
 ]
