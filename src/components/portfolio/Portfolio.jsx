@@ -8,6 +8,7 @@ import IMG5 from '../../assets/portfolio2.png'
 import IMG6 from '../../assets/docplanner.png'
 import IMG7 from '../../assets/portfolio3.png'
 import IMG8 from '../../assets/calculator-app.png'
+import IMG9 from '../../assets/Movie-App-with-React copy.png'
 
 
 const data = [
@@ -66,6 +67,13 @@ const data = [
     title: 'Calculator-app',
     github: 'https://github.com/',
     demo: 'https://sprightly-sable-cd3bb7.netlify.app'
+  },
+  {
+    id: 9,
+    image: IMG9,
+    title: 'Movie-app',
+    github: 'https://github.com/',
+    demo: 'https://movie-app-with-react-7664vzptw-shalom-solutions.vercel.app'
   },
 
 ]
